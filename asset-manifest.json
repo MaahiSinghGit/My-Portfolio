@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.7b2ceed3.css",
+    "main.js": "/My-Portfolio/static/js/main.1f022a08.js",
+    "static/js/787.6afee380.chunk.js": "/My-Portfolio/static/js/787.6afee380.chunk.js",
+    "static/media/myimg.png": "/My-Portfolio/static/media/myimg.a4290c7b72440e7babe2.png",
+    "static/media/bg.jpg": "/My-Portfolio/static/media/bg.0a4893421f4eb80a395c.jpg",
+    "static/media/Poppins-Thin.ttf": "/My-Portfolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/My-Portfolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/My-Portfolio/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/My-Portfolio/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/My-Portfolio/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/My-Portfolio/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/My-Portfolio/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/contact.png": "/My-Portfolio/static/media/contact.e190e094d605e87e694c.png",
+    "static/media/logo.jpg": "/My-Portfolio/static/media/logo.90eac853a995f2fec21b.jpg",
+    "static/media/hills.jpg": "/My-Portfolio/static/media/hills.601f74093972d2ebb05a.jpg",
+    "static/media/project-bg.jpg": "/My-Portfolio/static/media/project-bg.1a7ec9d648274fd1195d.jpg",
+    "static/media/portfolio.jpg": "/My-Portfolio/static/media/portfolio.9ded04076f23388a13a5.jpg",
+    "index.html": "/My-Portfolio/index.html",
+    "static/media/programming-skills.svg": "/My-Portfolio/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "static/media/projects.svg": "/My-Portfolio/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/My-Portfolio/static/media/interests.809890a3e4fb0938f61b.svg",
+    "static/media/education.svg": "/My-Portfolio/static/media/education.10cfa28a40119ebd70cf.svg",
+    "static/media/work-history.svg": "/My-Portfolio/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.7b2ceed3.css.map": "/My-Portfolio/static/css/main.7b2ceed3.css.map",
+    "main.1f022a08.js.map": "/My-Portfolio/static/js/main.1f022a08.js.map",
+    "787.6afee380.chunk.js.map": "/My-Portfolio/static/js/787.6afee380.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b2ceed3.css",
+    "static/js/main.1f022a08.js"
+  ]
+}
